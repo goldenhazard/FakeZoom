@@ -8,4 +8,4 @@
 
 ### How to Run
 
-Just run FakeZoom.ipynb!
+Just run FakeZoom.ipynb in Colab!

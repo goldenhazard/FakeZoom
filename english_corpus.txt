@@ -1,15 +1,15 @@
-Do you have any question?
-Any question?
-Now it is a good time to ask question. Feel free to add question!
-Tackmin, are you there?
-Are you listening, Wonsuhk?
-Dongsub, are you listening!
-Did you understand?
-Everybody following me?
-Everybody on the same page?
-CNN is the famous architecture when handling computer vision.
-RNN is the famous architecture when handling natural language processing.
-Reinforcement learning is well adopted technique that handles robot learning.
-Here is a fun episode about the subject.
-Yeah, this is true story, so funny right?
-Here goes fun story, grab your belly button.
+Do you have any question? /1
+Any question? /1
+Now it is a good time to ask question. Feel free to add question! /1
+Tackmin, are you there? /2
+Are you listening, Wonsuhk? /2
+Dongsub, are you listening! /2
+Did you understand? /3
+Everybody following me? /3
+Everybody on the same page? /3
+CNN is the famous architecture when handling computer vision. /4
+RNN is the famous architecture when handling natural language processing. /4
+Reinforcement learning is well adopted technique that handles robot learning. /4
+Here is a fun episode about the subject. /5
+Yeah, this is true story, so funny right? /5
+Here goes fun story, grab your belly button. /5

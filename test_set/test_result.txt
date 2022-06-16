@@ -1,0 +1,49 @@
+Cluster 1: Instructor asking for questions
+If you have questions, go ahead. 
+if you have any questions go ahead / 1
+That was a good question. Any other questions?
+it was a good question any other questes / 1
+If you are confused, please let me know.
+a here a confused please let you know / 1
+Don’t hesitate to ask.
+don't have totake to ask / 1
+
+Cluster 2: Instructor looking for students
+Umm, John, are you there?
+come joh are you there / 2
+Let me see. Sarah, did you understand what I said?
+let me see sarah you nurse can what i said / 1
+Jacob, can you suggest any better idea?
+clo and you suggest any better you / 1
+How do you think about it, Emily?
+how do you think about it family / 1
+
+Cluster 3: Default lecture situation
+We are going to the next chapter.
+we are going to the next chapter / 1
+Hidden Markov Model is a statistical Markov model which is assumed to be a Markov process.
+po mark of modelises tuccur / 1
+Reinforcement learning can be executed in many ways.
+reinforcementth learning can be executing / 3
+What is the future of AI?
+what is the future of ai / 3
+
+Cluster 4: Instructor trying to make the students laugh with humor
+Let me introduce a joke that you’ll never forget.
+let roproduce a joke that you' nel foragain / 1
+Jeff Dean's infinite loops run in 5 seconds. Funny, right?
+justthings infinite loops runningin five seconds / 2
+All the students who took my previous lecture laughed at this point.
+aller students who took my previous lecture leftgh half / 1
+How fun is it!
+how fun is it / 4
+
+Cluster 5: Instructor checking whether students are concentrating
+Are you guys there?
+are you guys there / 2
+If you are not following, please let me know.
+if you're no following please let me know / 1
+Am I too fast? Everybody understanding well?
+am i too fast everybody / 5
+Hold tight and don’t lose your concentration in this chapter.
+hold side and 'lllose your concentrationally / 2

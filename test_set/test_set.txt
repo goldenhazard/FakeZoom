@@ -1,0 +1,29 @@
+Cluster 1: Instructor asking for questions
+If you have questions, go ahead. 
+That was a good question. Any other questions?
+If you are confused, please let me know.
+Don’t hesitate to ask.
+
+Cluster 2: Instructor looking for students
+Umm, John, are you there?
+Let me see. Sarah, did you understand what I said?
+Jacob, can you suggest any better idea?
+How do you think about it, Emily?
+
+Cluster 3: Default lecture situation
+We are going to the next chapter.
+Hidden Markov Model is a statistical Markov model which is assumed to be a Markov process.
+Reinforcement learning can be executed in many ways.
+What is the future of AI?
+
+Cluster 4: Instructor trying to make the students laugh with humor
+Let me introduce a joke that you’ll never forget.
+Jeff Dean's infinite loops run in 5 seconds. Funny, right?
+All the students who took my previous lecture laughed at this point.
+How fun is it!
+
+Cluster 5: Instructor checking whether students are concentrating
+Are you guys there?
+If you are not following, please let me know.
+Am I too fast? Everybody understanding well?
+Hold tight and don’t lose your concentration in this chapter.
